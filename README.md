@@ -67,7 +67,7 @@ git clone https://github.com/shivanikevat7704-creator/Responsive-Bakery-Website.
 
 ## 🌐 Live Demo
 
-*Add your GitHub Pages link here*
+Your site is live at https://shivanikevat7704-creator.github.io/Responsive-Bakery-Website/
 
 ---
 
