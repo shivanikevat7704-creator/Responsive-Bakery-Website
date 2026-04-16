@@ -59,9 +59,6 @@ git clone https://github.com/shivanikevat7704-creator/Responsive-Bakery-Website.
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots of your project here (homepage, products, etc.)*
 
 ---
 
